@@ -1,7 +1,12 @@
-# Interface-Grafica
-
-Interface gráfica no python usando PySimpleGUI
-
 <h1 align="center">
-![Foto da interface](interface.png)
+Interface Gráfica - PySimpleGUI
 </h1>
+
+## Techs
+
+- [x] Python
+- [x] PySimpleGUI
+
+## Interface gráfica no python usando PySimpleGUI
+
+![Foto da interface](interface.png)
